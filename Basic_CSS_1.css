@@ -1,0 +1,9 @@
+p {
+	color: #FF7F50;
+	text-align: center;
+	}
+div p {
+    color: blue;
+}
+
+	
