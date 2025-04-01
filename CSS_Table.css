@@ -1,0 +1,21 @@
+table {
+            border-collapse: collapse;
+			border: 1px solid black;
+        }
+        td:hover {
+            text-align: center; 
+            background-color: black;
+			color: white;
+        }
+		tr, th {
+			background-color:yellow;
+			color:red;
+		}
+		tr, td {
+			background-color:green;
+			color:white
+		}
+		th, td {
+			text-align: center;
+			border: 1px solid black;
+		}
