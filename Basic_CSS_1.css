@@ -1,9 +1,36 @@
 p {
 	color: #FF7F50;
-	text-align: center;
+	text-align: right;
 	}
 div p {
     color: blue;
 }
-
-	
+.font_1 {
+background-color: black ;
+color: yellow;
+font-size: medium ;
+text-align : center ;
+font-style: bold;
+}
+.font_2{
+background-color: blue;
+color: white;
+font-size: large;
+text-align: center;
+text-decoration: underline;
+font-style: bold;
+}
+.font_3 {
+	background-color: gray ;
+	color: orange ;
+	font-size: medium;
+	text-align: right;
+	font-style:italic;
+}
+h3 {
+	color: navy blue;
+	background-color: yellow;
+	font-size: large;
+	text-align: center;
+	text-decoration: overline;
+}
