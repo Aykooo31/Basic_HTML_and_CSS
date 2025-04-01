@@ -1,0 +1,18 @@
+p {
+	color: yellow;
+	background: blue;
+	font-weight:bold;
+	font-style: italic;
+	text-align: center;
+	}
+h1 {
+	color: snow;
+	background:black;
+	text-align: center;
+	font-size:large;
+}
+.container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
