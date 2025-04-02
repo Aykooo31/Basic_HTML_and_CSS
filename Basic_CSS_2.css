@@ -1,18 +1,21 @@
 p {
-	color: yellow;
-	background: blue;
-	font-weight:bold;
-	font-style: italic;
-	text-align: center;
-	}
-h1 {
-	color: snow;
-	background:black;
-	text-align: center;
-	font-size:large;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 2px 2px 5px black; /* Adds shadow to the text */
 }
+
+h1 {
+    color: snow;
+    background: black;
+    text-align: center;
+    font-size: large;
+    text-shadow: 4px 4px 8px gray; /* Adds a gray shadow to the title text */
+}
+
 .container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
